@@ -35,3 +35,6 @@ build/*
 GPATH
 GRTAGS
 GTAGS
+
+### Python ###
+*.pyc
